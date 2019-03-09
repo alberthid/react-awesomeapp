@@ -1,0 +1,72 @@
+.container-content-login {
+    padding: 20px 25px 20px 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.content-login-left {
+    display: flex;
+    flex-basis: 100%;
+    flex-direction: column;
+    border: 1px solid black;
+}
+
+.content-login-right {
+    display: flex;
+    flex-basis: 100%;
+    flex-direction: column;
+    border: 1px solid black;
+}
+
+.content-login-title {
+    text-align: center
+}
+
+.content-login-form {
+    padding: 10px 20px 10px 20px;
+}
+
+.width-inherit {
+    width: inherit;
+}
+
+.nm-content {
+    width: inherit;
+    min-height: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: red;
+}
+
+.a-meetup {
+    width: inherit;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+
+.gray-text {
+    color: lightgray;
+}
+
+.place-viewEvent {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.table {
+    border: 1px solid black;
+}
